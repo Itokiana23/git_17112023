@@ -1,3 +1,21 @@
+*{
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 body{
-  background: beige;
+  margin: 0;
+}
+.titre{
+  margin: 0;
+  background: #5BE;
+  height: 100px;
+  display: flex;
+  align-items: flex-end;
+
+}
+h1{
+  color: white;
+  margin: 0;
+  margin-left: 10px;
+  font-size: 3rem;
 }
